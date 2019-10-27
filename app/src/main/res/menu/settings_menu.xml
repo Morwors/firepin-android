@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settings_menu_add_number"
+        android:icon="@drawable/ic_add_phone"
+        android:title="Add NUmber"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom|withText" />
+
+
+</menu>

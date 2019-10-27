@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FirePin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_register_password">Password</string>
+    <string name="edit_register_phone">Phone</string>
+    <string name="edit_register_email">Email</string>
+    <string name="edit_register_fullname">Full Name</string>
+    <string name="button_login_login">Login</string>
+    <string name="button_otp_verify">Verify</string>
+    <string name="edit_register_first_name">First Name</string>
+    <string name="edit_register_last_name">Last Name</string>
+    <string name="add_number">Add Number</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_cancel">Cancel</string>
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+</resources>
